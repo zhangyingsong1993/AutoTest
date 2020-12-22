@@ -1,4 +1,5 @@
 zhangyingsongchuanjiandegit
 chaunjianxindefenzhibinghebing
 创建新的分支并合并
-这是需要合并的master上的内容
+## 这是解决合并冲突后需要保存
+这是需要合并的master上的内容，这是masterAutoNew分支上需要合并的内容
